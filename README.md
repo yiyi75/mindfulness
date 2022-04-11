@@ -1,4 +1,4 @@
-# Orally Presented at the Society for Personality and Social Psychology (SPSP) conference 2022
+# Presented at the Society for Personality and Social Psychology (SPSP) conference 2022
 Suggested by Mindfulness-to-Meaning theory (MMT), decentering promotes reappraisal, leading to a greater sense of meaning in life and contributing powerfully to well-being. 
 Existing mental health interventions are generally efficacious for promoting well-being and may target different aspects of the MMT; however, these interventions have not been validated for use in online settings, creating a critical gap in the delivery of support during periods of social isolation. 
 The current study validated and compared online adaptations of established interventions to support students’ psychological well-being for 3 weeks by employing a 4-arm clinical trial design: a control condition, a mindfulness condition, a stress reappraisal condition, and a blended mindfulness and stress reappraisal condition. 
