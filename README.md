@@ -1,0 +1,6 @@
+# Abstract
+Suggested by Mindfulness-to-Meaning theory (MMT), decentering promotes reappraisal, leading to a greater sense of meaning in life and contributing powerfully to well-being. 
+Existing mental health interventions are generally efficacious for promoting well-being and may target different aspects of the MMT; however, these interventions have not been validated for use in online settings, creating a critical gap in the delivery of support during periods of social isolation. 
+The current study validated and compared online adaptations of established interventions to support students’ psychological well-being for 3 weeks by employing a 4-arm clinical trial design: a control condition, a mindfulness condition, a stress reappraisal condition, and a blended mindfulness and stress reappraisal condition. 
+Across the study period, all intervention groups largely enhanced decentering and stress mindset skills compared to the control group. 
+Our proposed MMT pathway (Decentering → Reappraisal → Wellbeing) was significant in all preregistered models, suggesting that increases in decentering and reappraisal builds motivation to engage with a more meaningful life and substantially improves well-being.
